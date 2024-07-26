@@ -5,7 +5,7 @@ I do not own a lot of the assets used in this project.
 ## Contributors
 Christian Penaflor <br />
 Cidney Ciacho <br />
-Patrick Delos Reyes
+Patrick de los Reyes
 
 ## Controls:
 **W** -- Go Up <br />
