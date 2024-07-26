@@ -6,7 +6,7 @@ I do not own a lot of the assets used in this project.
 Christian Penaflor <br />
 Cidney Ciacho <br />
 Patrick Delos Reyes
-
+ 
 ## Controls:
 **W** -- Go Up <br />
 **A** -- Go Left <br />
